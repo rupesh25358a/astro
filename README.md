@@ -4,4 +4,4 @@ You can watch Astro legally on TiviMate, really, really soon, as soon as I figur
 # Links
 [https://github.com/weareblahs/astro/raw/main/astro_links.txt](https://github.com/weareblahs/astro/raw/main/astro_links.txt)
   
-If you figured out how to get the License URL for Astro GO, Submit an Issue with the tag "Found License Server URL".
+If you figured out how to get the License URL for Astro GO, Submit an Issue with the tag "Found License Server URL" with the instructions.
