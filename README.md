@@ -1,4 +1,4 @@
-# Astro
+# Astro GO on IPTV players
 You can watch Astro legally on TiviMate, really, really soon, as soon as I figured out how to get the License Server URL from Astro GO and you have an Astro subscription.
 
 # Links
